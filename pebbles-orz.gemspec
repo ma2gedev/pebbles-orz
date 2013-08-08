@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["takayuki.1229@gmail.com"]
   spec.description   = %q{A joke gem to define aliases}
   spec.summary       = %q{A joke gem to define aliases}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ma2gedev/pebbles-orz"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
