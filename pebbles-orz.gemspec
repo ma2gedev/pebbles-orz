@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Pebbles::Orz::VERSION
   spec.authors       = ["Takayuki Matsubara"]
   spec.email         = ["takayuki.1229@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A joke gem to define aliases}
+  spec.summary       = %q{A joke gem to define aliases}
   spec.homepage      = ""
   spec.license       = "MIT"
 
