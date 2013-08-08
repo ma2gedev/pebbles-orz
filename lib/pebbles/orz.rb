@@ -2,6 +2,8 @@ require "pebbles/orz/version"
 
 module Pebbles
   module Orz
-    # Your code goes here...
   end
 end
+
+alias :orz :fail
+alias :or2 :raise
